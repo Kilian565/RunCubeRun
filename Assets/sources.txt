@@ -1,0 +1,8 @@
+everything made by me except:
+
+wood_stylized_maps made by bib student Steven Serra Mock
+playerneu (charactertexture) made by bib student Julian Otto
+Assets/Plugins/Extensions made by bib student Adrian Dragomir
+
+Thanks to them.
+
